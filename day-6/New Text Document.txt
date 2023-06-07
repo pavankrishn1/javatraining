@@ -1,0 +1,18 @@
+import java.util.*;
+public class d6byte
+{
+public static void main(String.args[])
+{
+Scanner sc=new Scanner(System.in);
+int byte1;
+int byte2;
+int result=1;
+System.out.println("enther the byte1");
+byte1=sc.nextInt();
+System.out.println("enther the byts2");
+byte2=sc.nextInt();
+for(int i=1;i<=(n-1);i++)
+{
+result2*=byte1;
+}
+System.out,println(
