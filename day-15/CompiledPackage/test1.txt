@@ -1,0 +1,9 @@
+import pl.EEE;
+class Test
+{
+public static void main(String args[])
+{
+EEE ob=new EEE();
+ob.pavan();
+}
+}
